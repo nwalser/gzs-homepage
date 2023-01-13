@@ -108,6 +108,9 @@
 			<p class="text-center text-base text-white">
 				&copy; {new Date().getFullYear()} GZS Gewerbezentrum, Strahlholz, 9056 Gais | +41 71 791 70 11 | <a href="mailto:nicole.schoch@idpag.ch" class="underline">nicole.schoch@idpag.ch</a>
 			</p>
+			<p class="text-center text-sm text-black">
+				Designed by <a href="https://www.nathaniel-walser.com" class="underline">Nathaniel Walser</a>
+			</p>
 		</div>
 	</footer>
 </div>
