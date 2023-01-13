@@ -3,7 +3,7 @@
 
 	$: {
 		if (typeof gtag !== 'undefined') {
-			gtag('config', 'GOOGLE TAG HERE', {
+			gtag('config', 'G-JY4F9P05YW', {
 				page_title: document.title,
 				page_path: $page.url.pathname
 			});
@@ -12,7 +12,7 @@
 </script>
 
 <svelte:head>
-	<script async src="https://www.googletagmanager.com/gtag/js?id=GOOGLETAGHERE"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JY4F9P05YW"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() {
@@ -20,6 +20,6 @@
 		}
 
 		gtag('js', new Date());
-		gtag('config', 'GOOGLE TAG HERE');
+		gtag('config', 'G-JY4F9P05YW');
 	</script>
 </svelte:head>
