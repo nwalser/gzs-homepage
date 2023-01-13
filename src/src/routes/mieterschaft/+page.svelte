@@ -17,7 +17,7 @@
 		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-02.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h1>Ein lebendiger Mieter-Mix</h1>
 			<table class="table-auto">
 				<thead>
@@ -124,7 +124,7 @@
 		</div>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>Vielfältige Erfolgsfaktoren</h2>
 			<p>
 				Dieser lebendige Mieter-Mix, die Lage im Grünen, in nächster Nähe zu Zentren (St.Gallen) und

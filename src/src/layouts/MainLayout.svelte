@@ -17,7 +17,7 @@
 	<meta name="theme-color" content="#d2031d" />
 </svelte:head>
 
-<div class="min-h-screen flex flex-col">
+<div class="min-h-screen flex flex-col overflow-hidden">
 	<div class="bg-[#d2031d] relative z-0 overflow-hidden">
 		<nav>
 			<div class="mx-auto max-w-7xl sm:px-6 lg:px-8">

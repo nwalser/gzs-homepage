@@ -15,7 +15,7 @@
 		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-01.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h1>Mietobjekte</h1>
 			<h2>Mietobjekte im Erdgeschoss</h2>
 			<table class="table-fixed">
@@ -187,7 +187,7 @@
 		</div>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg sticky top-12 hidden md:block">
+		<div class="prose prose-base md:prose-lg max-w-none sticky top-12">
 			<h2>Aktuell freie Mietobjekte</h2>
 			<p>
 				2. Obergeschoss - 210m2 <br />

@@ -19,7 +19,7 @@
 		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-01.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h1>Wer wir sind</h1>
 			<h2>Die Initianten</h2>
 			<p>
@@ -48,7 +48,7 @@
 		</div>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>Verwaltung</h2>
 			<p>
 				IDP Treuhand AG <br />
