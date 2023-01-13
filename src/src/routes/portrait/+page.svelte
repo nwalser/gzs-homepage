@@ -9,7 +9,7 @@
 
 <MetaTags
 	title="Portrait"
-	titleTemplate="%s - Gewerbezentrum Stralholz"
+	titleTemplate="%s - Gewerbezentrum Strahlholz"
 	description="Das auf Innerrhoder Gebiet liegende aber organisatiorisch zu Gais AR gehörende Gewerbe
 	Zentrum Strahlholz beherbergt über zehn Unternehmen aus unterschiedlichen Branchen."
 />

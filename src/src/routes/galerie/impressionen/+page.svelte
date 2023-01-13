@@ -10,7 +10,7 @@
 
 <MetaTags
 	title="Galerie Impressionen"
-	titleTemplate="%s - Gewerbezentrum Stralholz"
+	titleTemplate="%s - Gewerbezentrum Strahlholz"
 	description=""
 />
 

@@ -9,7 +9,7 @@
 
 <MetaTags
 	title="Willkommen"
-	titleTemplate="%s - Gewerbezentrum Stralholz"
+	titleTemplate="%s - Gewerbezentrum Strahlholz"
 	description="Variable Räume für Atelier, Praxis für Arzt/Zahnarzt, Büro, Schulung, Tanz- oder
 	Foto-Studio, Labor und vielem mehr zu vermieten."
 />
