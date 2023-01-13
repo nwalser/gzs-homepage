@@ -18,7 +18,7 @@
 		<ImageHeader alt="" src="/galerie/mietobjekte/gzs-raume-03.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h1>Herzlichen Dank für Ihr Interesse</h1>
 
 			<h2>Verwaltung und Vermietung</h2>
@@ -42,7 +42,7 @@
 		</div>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>Behörden</h2>
 			<a href="https://www.ar.ch/">Kanton AR</a>
 			<br />

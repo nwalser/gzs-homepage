@@ -19,7 +19,7 @@
 		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-01.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h1>Willkommen im Gewerbezentrum Strahlholz Gais</h1>
 			<p>
 				Das GZS setzt durch behutsame Renovierung und Modernisierung der ehemaligen Textilfabrik
@@ -37,7 +37,7 @@
 		</Galery>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>für clevere (Jung-) Unternehmer – aktuell zu vermieten</h2>
 			<p>
 				variable Räume für Atelier, Praxis für Arzt/Zahnarzt, Büro, Schulung, Tanz- oder

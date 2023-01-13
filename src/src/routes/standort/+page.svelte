@@ -20,7 +20,7 @@
 		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-01.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-lg max-w-none">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h1>Strahlholz - mit Bahn-Anschluss</h1>
 			<iframe
 				title="karte"
@@ -36,7 +36,7 @@
 		</div>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg">
+		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>Lage</h2>
 			<p>
 				Das Gewerbezentrum Stahlholz ist von St.Gallen in nur 15 Autominuten zu erreichen. Es stehen
