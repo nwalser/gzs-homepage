@@ -9,7 +9,7 @@
 
 <MetaTags
 	title="Galerie Historisches"
-	titleTemplate="%s - Gewerbezentrum Stralholz"
+	titleTemplate="%s - Gewerbezentrum Strahlholz"
 	description=""
 />
 

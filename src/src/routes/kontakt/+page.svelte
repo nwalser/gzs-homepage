@@ -9,7 +9,7 @@
 
 <MetaTags
 	title="Kontakt"
-	titleTemplate="%s - Gewerbezentrum Stralholz"
+	titleTemplate="%s - Gewerbezentrum Strahlholz"
 	description=""
 />
 

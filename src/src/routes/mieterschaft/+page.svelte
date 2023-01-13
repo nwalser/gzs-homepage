@@ -6,7 +6,7 @@
 
 <MetaTags
 	title="Mieterschaft"
-	titleTemplate="%s - Gewerbezentrum Stralholz"
+	titleTemplate="%s - Gewerbezentrum Strahlholz"
 	description="Dieser lebendige Mieter-Mix, die Lage im Grünen, in nächster Nähe zu Zentren (St.Gallen) und
 	der Zugang zu modernster Infrastruktur machen den Reiz des Gewerbe-Zentrum Strahlholz in
 	Gais aus."
