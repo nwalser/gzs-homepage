@@ -1,5 +1,7 @@
 <script lang="ts">
-	import ImageHeader from 'src/components/header/ImageHeader.svelte';
+	import Galery from 'src/components/galery/Galery.svelte';
+	import GaleryItem from 'src/components/galery/GaleryItem.svelte';
+import ImageHeader from 'src/components/header/ImageHeader.svelte';
 	import MainLayout from 'src/layouts/MainLayout.svelte';
 	import TwoColumnLayout from 'src/layouts/TwoColumnLayout.svelte';
 	import { MetaTags } from 'svelte-meta-tags';
@@ -11,7 +13,7 @@
 	<span slot="header">
 		<ImageHeader
 			alt="some text"
-			src="https://images.unsplash.com/photo-1673557143243-39f2995a3bca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+			src="/galerie/umgebung/gzs-umgebung-01.jpg"
 		/>
 	</span>
 	<span slot="body">
@@ -23,6 +25,14 @@
 				Ausrichtung, vom Künstler bis zum High-Tech Labor.
 			</p>
 		</div>
+		<Galery>
+			<GaleryItem src="/galerie/infrastruktur/gzs-infrastruktur-01.jpg" alt="" cols={2} rows={1} />
+			<GaleryItem src="/galerie/mietobjekte/gzs-raume-03.jpg" alt="" cols={1} rows={1} />
+			<GaleryItem src="/galerie/mietobjekte/gzs-raume-04.jpg" alt="" cols={1} rows={1} />
+			<GaleryItem src="/galerie/mietobjekte/gzs-raume-12.jpg" alt="" cols={2} rows={2} />
+			<GaleryItem src="/galerie/umgebung/gzs-umgebung-01.jpg" alt="" cols={1} rows={1} />
+			<GaleryItem src="/galerie/umgebung/gzs-umgebung-02.jpg" alt="" cols={3} rows={2} />
+		</Galery>
 	</span>
 	<span slot="side">
 		<div class="prose prose-lg">

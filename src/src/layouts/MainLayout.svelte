@@ -34,7 +34,7 @@
 						<div class="ml-10 flex items-baseline space-x-4">
 							<MenuItem href="/mieterschaft">Mieterschaft</MenuItem>
 							<MenuItem href="/mietobjekte">Mietobjekte</MenuItem>
-							<MenuItem href="/galerie">Galerie</MenuItem>
+							<MenuItem href="/galerie/mietobjekte">Galerie</MenuItem>
 							<MenuItem href="/kontakt">Kontakt</MenuItem>
 							<MenuItem href="/standort">Standort</MenuItem>
 							<MenuItem href="/portrait">Portrait</MenuItem>
@@ -85,7 +85,7 @@
 					<div class="space-y-1 px-2 py-3 sm:px-3">
 						<MenuItem mobile={true} href="/mieterschaft">Mieterschaft</MenuItem>
 						<MenuItem mobile={true} href="/mietobjekte">Mietobjekte</MenuItem>
-						<MenuItem mobile={true} href="/galerie">Galerie</MenuItem>
+						<MenuItem mobile={true} href="/galerie/mietobjekte">Galerie</MenuItem>
 						<MenuItem mobile={true} href="/kontakt">Kontakt</MenuItem>
 						<MenuItem mobile={true} href="/standort">Standort</MenuItem>
 						<MenuItem mobile={true} href="/portrait">Portrait</MenuItem>
