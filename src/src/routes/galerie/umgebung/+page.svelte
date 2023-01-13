@@ -15,7 +15,7 @@
 		<ImageHeader alt="" src="/galerie/mietobjekte/gzs-raume-03.jpg" />
 	</span>
 	<span slot="body">
-		<div class="prose prose-md max-w-none">
+		<div class="prose prose-lg max-w-none">
 			<h1>Galerie Umgebung</h1>
 		</div>
 		<Galery>

@@ -17,7 +17,7 @@ import ImageHeader from 'src/components/header/ImageHeader.svelte';
 		/>
 	</span>
 	<span slot="body">
-		<div class="prose prose-md max-w-none">
+		<div class="prose prose-lg max-w-none">
 			<h1>Willkommen im Gewerbezentrum Strahlholz Gais</h1>
 			<p>
 				Das GZS setzt durch behutsame Renovierung und Modernisierung der ehemaligen Textilfabrik
