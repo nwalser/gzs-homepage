@@ -3,4 +3,4 @@
     export let alt: string;
 </script>
 
-<img class="h-full w-full object-cover max-h-52" {src} {alt} />
+<img class="h-full w-full object-cover max-h-64" {src} {alt} />

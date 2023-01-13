@@ -7,7 +7,11 @@
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
-<MetaTags title="Galerie" titleTemplate="%s - Gewerbezentrum Strahlholz" description="" />
+<MetaTags
+	title="Kontakt"
+	titleTemplate="%s - Gewerbezentrum Stralholz"
+	description=""
+/>
 
 <TwoColumnLayout>
 	<span slot="header">

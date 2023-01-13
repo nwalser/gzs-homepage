@@ -1,20 +1,22 @@
 <script lang="ts">
 	import Galery from 'src/components/galery/Galery.svelte';
 	import GaleryItem from 'src/components/galery/GaleryItem.svelte';
-import ImageHeader from 'src/components/header/ImageHeader.svelte';
+	import ImageHeader from 'src/components/header/ImageHeader.svelte';
 	import MainLayout from 'src/layouts/MainLayout.svelte';
 	import TwoColumnLayout from 'src/layouts/TwoColumnLayout.svelte';
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
-<MetaTags title="Willkommen" titleTemplate="%s - Gewerbezentrum Strahlholz" description="" />
+<MetaTags
+	title="Willkommen"
+	titleTemplate="%s - Gewerbezentrum Stralholz"
+	description="Variable Räume für Atelier, Praxis für Arzt/Zahnarzt, Büro, Schulung, Tanz- oder
+	Foto-Studio, Labor und vielem mehr zu vermieten."
+/>
 
 <TwoColumnLayout>
 	<span slot="header">
-		<ImageHeader
-			alt="some text"
-			src="/galerie/umgebung/gzs-umgebung-01.jpg"
-		/>
+		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-01.jpg" />
 	</span>
 	<span slot="body">
 		<div class="prose prose-lg max-w-none">

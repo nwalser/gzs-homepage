@@ -4,11 +4,17 @@
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
-<MetaTags title="Willkommen" titleTemplate="%s - Gewerbezentrum Strahlholz" description="" />
+<MetaTags
+	title="Mieterschaft"
+	titleTemplate="%s - Gewerbezentrum Stralholz"
+	description="Dieser lebendige Mieter-Mix, die Lage im Grünen, in nächster Nähe zu Zentren (St.Gallen) und
+	der Zugang zu modernster Infrastruktur machen den Reiz des Gewerbe-Zentrum Strahlholz in
+	Gais aus."
+/>
 
 <TwoColumnLayout>
 	<span slot="header">
-		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-01.jpg" />
+		<ImageHeader alt="some text" src="/galerie/umgebung/gzs-umgebung-02.jpg" />
 	</span>
 	<span slot="body">
 		<div class="prose prose-lg max-w-none">

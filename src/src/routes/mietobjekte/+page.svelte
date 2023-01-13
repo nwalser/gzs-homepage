@@ -4,7 +4,11 @@
 	import { MetaTags } from 'svelte-meta-tags';
 </script>
 
-<MetaTags title="Willkommen" titleTemplate="%s - Gewerbezentrum Strahlholz" description="" />
+<MetaTags
+	title="Mietobjekte"
+	titleTemplate="%s - Gewerbezentrum Stralholz"
+	description=""
+/>
 
 <TwoColumnLayout>
 	<span slot="header">
@@ -179,11 +183,11 @@
 					</tr>
 				</tbody>
 			</table>
-			<img src="/grundriss/etage-3.jpg" class="rounded-sm w-full" alt="etage 3" />
+			<img src="/grundriss/etage-3-eingefarbt.jpg" class="rounded-sm w-full" alt="etage 3" />
 		</div>
 	</span>
 	<span slot="side">
-		<div class="prose prose-lg sticky top-12">
+		<div class="prose prose-lg sticky top-12 hidden md:block">
 			<h2>Aktuell freie Mietobjekte</h2>
 			<p>
 				2. Obergeschoss - 210m2 <br />
