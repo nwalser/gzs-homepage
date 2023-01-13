@@ -35,25 +35,25 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td><b>E.1</b></td>
+						<td>E.1</td>
 						<td>48 m2</td>
 						<td>W. Brändli</td>
 						<td />
 					</tr>
 					<tr>
-						<td><b>E.2</b></td>
+						<td>E.2</td>
 						<td>505 m2</td>
 						<td>LUMITEC AG</td>
 						<td />
 					</tr>
 					<tr>
-						<td><b>E.3</b></td>
+						<td>E.3</td>
 						<td>12 m2</td>
 						<td>IDP Treuhand AG</td>
 						<td />
 					</tr>
 					<tr>
-						<td><b>E.4</b></td>
+						<td>E.4</td>
 						<td>658 m2</td>
 						<td>ENZ ELECTRONIC AG</td>
 						<td />
@@ -80,13 +80,13 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td><strong>1.1</strong></td>
+						<td>1.1</td>
 						<td>125 m2</td>
 						<td>IDP Treuhand AG</td>
 						<td />
 					</tr>
 					<tr>
-						<td><strong>1.2</strong></td>
+						<td>1.2</td>
 						<td>414 m2</td>
 						<td>LUMITEC AG</td>
 						<td />
@@ -113,19 +113,19 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td><b>2.1</b></td>
+						<td>2.1</td>
 						<td>133 m2</td>
 						<td>IDP Treuhand AG</td>
 						<td />
 					</tr>
 					<tr>
-						<td><strong>2.2</strong></td>
+						<td>2.2</td>
 						<td>210 m2</td>
 						<td>Reckhaus AG</td>
 						<td class="font-bold">frei ab 1.7.2023 oder nach Vereinbarung</td>
 					</tr>
 					<tr>
-						<td><strong>2.3</strong></td>
+						<td>2.3</td>
 						<td>157 m2</td>
 						<td>Reckhaus AG</td>
 						<td class="font-bold">frei ab 1.7.2023 oder nach Vereinbarung</td>
@@ -152,31 +152,31 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td><b>3.1</b></td>
+						<td>3.1</td>
 						<td>133 m2</td>
 						<td>Rico Brunner AG</td>
 						<td />
 					</tr>
 					<tr>
-						<td><b>3.2</b></td>
+						<td>3.2</td>
 						<td>43 m2</td>
 						<td>S. Moshin</td>
 						<td />
 					</tr>
 					<tr>
-						<td><b>3.3</b></td>
+						<td>3.3</td>
 						<td>80 m2</td>
 						<td>heico Dent GmbH</td>
 						<td />
 					</tr>
 					<tr>
-						<td><strong>3.4</strong></td>
+						<td>3.4</td>
 						<td>90 m2</td>
 						<td>H. J. Maier</td>
 						<td />
 					</tr>
 					<tr>
-						<td><strong>3.5</strong></td>
+						<td>3.5</td>
 						<td>157 m2</td>
 						<td />
 						<td class="font-bold">frei</td>
