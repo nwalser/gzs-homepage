@@ -13,7 +13,7 @@ module.exports = {
       }),
     },
     fontFamily: {
-      'inter': ['\'Inter\'', 'sans-serif'],
+      'sans': ['\'Inter\'', 'sans-serif'],
     },
     animation: {
       text: 'text 5s ease infinite',
