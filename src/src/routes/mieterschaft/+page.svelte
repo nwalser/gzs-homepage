@@ -7,9 +7,12 @@
 <MetaTags
 	title="Mieterschaft"
 	titleTemplate="%s - Gewerbezentrum Strahlholz"
-	description="Dieser lebendige Mieter-Mix, die Lage im Grünen, in nächster Nähe zu Zentren (St.Gallen) und
-	der Zugang zu modernster Infrastruktur machen den Reiz des Gewerbe-Zentrum Strahlholz in
-	Gais aus."
+	description="Der lebendige Mieter-Mix - industrielle Elektronik, Leuchtsysteme,
+	Dentalhandelsunternehmen, Treuhand, Fernbegleitung, Kunstmaler,
+	Bergführer, Hobbyraumnutzer, Wohnungsmieter - wie auch die Lage
+	im Grünen, am Rotbach gelegen, machen den Reiz des Gewerbezentrum
+	Strahlholz aus. Dies in nächster Nähe zum Zentrum St. Gallen sowie
+	im steuergünstigen Appenzell Innerrhoden gelegen."
 />
 
 <TwoColumnLayout>
@@ -127,9 +130,12 @@
 		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>Vielfältige Erfolgsfaktoren</h2>
 			<p>
-				Dieser lebendige Mieter-Mix, die Lage im Grünen, in nächster Nähe zu Zentren (St.Gallen) und
-				der Zugang zu modernster Infrastruktur machen den Reiz des Gewerbe-Zentrum Strahlholz in
-				Gais aus.
+				Der lebendige Mieter-Mix - industrielle Elektronik, Leuchtsysteme,
+				Dentalhandelsunternehmen, Treuhand, Fernbegleitung, Kunstmaler,
+				Bergführer, Hobbyraumnutzer, Wohnungsmieter - wie auch die Lage
+				im Grünen, am Rotbach gelegen, machen den Reiz des Gewerbezentrum
+				Strahlholz aus. Dies in nächster Nähe zum Zentrum St. Gallen sowie
+				im steuergünstigen Appenzell Innerrhoden gelegen. 
 			</p>
 		</div>
 	</span>

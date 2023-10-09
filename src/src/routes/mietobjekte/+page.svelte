@@ -20,170 +20,148 @@
 			<h2>Mietobjekte im Erdgeschoss</h2>
 			<table class="table-fixed">
 				<colgroup>
-					<col span="1" style="width: 10%;" />
 					<col span="1" style="width: 15%;" />
-					<col span="1" style="width: 35%;" />
-					<col span="1" style="width: 40%;" />
+					<col span="1" style="width: 30%;" />
+					<col span="1" style="width: 55%;" />
 				</colgroup>
 				<thead>
 					<tr>
 						<th>Nr</th>
 						<th>Fläche</th>
-						<th>Mieter</th>
-						<th>Detail-Informationen</th>
+						<th></th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
-						<td>E.1</td>
+						<td>0.1</td>
 						<td>48 m2</td>
-						<td>W. Brändli</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
-						<td>E.2</td>
+						<td>0.2</td>
 						<td>505 m2</td>
-						<td>LUMITEC AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
-						<td>E.3</td>
+						<td>0.3</td>
 						<td>12 m2</td>
-						<td>IDP Treuhand AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
-						<td>E.4</td>
+						<td>0.4</td>
 						<td>658 m2</td>
-						<td>ENZ ELECTRONIC AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 				</tbody>
 			</table>
-			<img src="/grundriss/etage-0.jpg" class="rounded-sm w-full" alt="etage 1" />
+			<img src="/grundriss/230210_EG.svg" class="rounded-sm w-full" alt="EG" />
 
 			<h2>Mietobjekte im 1. Obergeschoss</h2>
-			<table class="table-auto">
+			<table class="table-fixed">
 				<colgroup>
-					<col span="1" style="width: 10%;" />
 					<col span="1" style="width: 15%;" />
-					<col span="1" style="width: 35%;" />
-					<col span="1" style="width: 40%;" />
+					<col span="1" style="width: 30%;" />
+					<col span="1" style="width: 55%;" />
 				</colgroup>
 				<thead>
 					<tr>
 						<th>Nr</th>
 						<th>Fläche</th>
-						<th>Mieter</th>
-						<th>Detail-Informationen</th>
+						<th></th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
 						<td>1.1</td>
 						<td>125 m2</td>
-						<td>IDP Treuhand AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>1.2</td>
 						<td>414 m2</td>
-						<td>LUMITEC AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 				</tbody>
 			</table>
-			<img src="/grundriss/etage-1.jpg" class="rounded-sm w-full" alt="etage 1" />
+			<img src="/grundriss/230210_1.OG.svg" class="rounded-sm w-full" alt="1 OG" />
 
 			<h2>Mietobjekte im 2. Obergeschoss</h2>
-			<table class="table-auto">
+			<table class="table-fixed">
 				<colgroup>
-					<col span="1" style="width: 10%;" />
 					<col span="1" style="width: 15%;" />
-					<col span="1" style="width: 35%;" />
-					<col span="1" style="width: 40%;" />
+					<col span="1" style="width: 30%;" />
+					<col span="1" style="width: 55%;" />
 				</colgroup>
 				<thead>
 					<tr>
 						<th>Nr</th>
 						<th>Fläche</th>
-						<th>Mieter</th>
-						<th>Detail-Informationen</th>
+						<th></th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
 						<td>2.1</td>
 						<td>133 m2</td>
-						<td>IDP Treuhand AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>2.2</td>
 						<td>210 m2</td>
-						<td>Reckhaus AG</td>
-						<td class="font-bold">frei ab 1.7.2023 oder nach Vereinbarung</td>
+						<td class="text-end">frei</td>
 					</tr>
 					<tr>
 						<td>2.3</td>
 						<td>157 m2</td>
-						<td>Reckhaus AG</td>
-						<td class="font-bold">frei ab 1.7.2023 oder nach Vereinbarung</td>
+						<td class="text-end">frei</td>
 					</tr>
 				</tbody>
 			</table>
-			<img src="/grundriss/etage-2.jpg" class="rounded-sm w-full" alt="etage 2" />
+			<img src="/grundriss/230210_2.OG.svg" class="rounded-sm w-full" alt="2 OG" />
 
 			<h2>Mietobjekte im 3. Obergeschoss</h2>
-			<table class="table-auto">
+			<table class="table-fixed">
 				<colgroup>
-					<col span="1" style="width: 10%;" />
 					<col span="1" style="width: 15%;" />
-					<col span="1" style="width: 35%;" />
-					<col span="1" style="width: 40%;" />
+					<col span="1" style="width: 30%;" />
+					<col span="1" style="width: 55%;" />
 				</colgroup>
 				<thead>
 					<tr>
 						<th>Nr</th>
 						<th>Fläche</th>
-						<th>Mieter</th>
-						<th>Detail-Informationen</th>
+						<th></th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
 						<td>3.1</td>
 						<td>133 m2</td>
-						<td>Rico Brunner AG</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>3.2</td>
 						<td>43 m2</td>
-						<td>S. Moshin</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>3.3</td>
 						<td>80 m2</td>
-						<td>heico Dent GmbH</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>3.4</td>
 						<td>90 m2</td>
-						<td>H. J. Maier</td>
-						<td />
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>3.5</td>
 						<td>157 m2</td>
-						<td />
-						<td class="font-bold">frei</td>
+						<td class="text-end">frei</td>
 					</tr>
 				</tbody>
 			</table>
-			<img src="/grundriss/etage-3-eingefarbt.jpg" class="rounded-sm w-full" alt="etage 3" />
+			<img src="/grundriss/230210_3.OG.svg" class="rounded-sm w-full" alt="3 OG" />
 		</div>
 	</span>
 	<span slot="side">

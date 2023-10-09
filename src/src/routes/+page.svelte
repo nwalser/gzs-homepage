@@ -38,16 +38,15 @@
 	</span>
 	<span slot="side">
 		<div class="prose prose-base md:prose-lg max-w-none">
-			<h2>für clevere (Jung-) Unternehmer – aktuell zu vermieten</h2>
+			<h2>Aktuell zu vermieten</h2>
 			<p>
 				variable Räume für Atelier, Praxis für Arzt/Zahnarzt, Büro, Schulung, Tanz- oder
 				Foto-Studio, Labor und vieles mehr …
 			</p>
 			<h2>Flexible Räume und Flächen</h2>
 			<p>
-				Insgesamt 2'000m2 Fläche sind auf vier Etagen verteilt. Die Räume sind 3.60m hoch, sehr hell
-				und werden unterteilt nach Ihren Anforderungen. Sie gestalten den Arbeitplatz nach Ihren
-				Bedürfnissen.
+				Insgesamt 2'000 m2 Fläche sind auf vier Etagen verteilt. 
+				Die Räume sind 3.60 m hoch und sehr hell.
 			</p>
 		</div>
 	</span>

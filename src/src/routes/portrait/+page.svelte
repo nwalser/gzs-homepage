@@ -24,15 +24,14 @@
 			<h2>Die Initianten</h2>
 			<p>
 				Das Gewerbezentrum Strahlholz ist aus der Umnutzung einer ehemaligen Zwirnerei entstanden.
-				Es waren vor allem der Industrie nahe stehende Personen aus Gais, Bühler und Teufen, die
-				unter der Führung des damaligen Ausserrhoder Volkswirtschafts-Direktors Hanswalter Schmid,
-				Gais, aktiv wurden. Sie gründeten die Gewerbezentrum Strahlholz AG (GZS).
+				Es waren vor allem der Industrie nahestehende Personen aus Gais, Bühler und Teufen die aktiv wurden. 
+				Sie gründeten die Gewerbezentrum Strahlholz AG (GZS).
 			</p>
 			<p>
-				Das auf Innerrhoder Gebiet liegende aber organisatiorisch zu Gais AR gehörende Gewerbe
-				Zentrum Strahlholz beherbergt über zehn Unternehmen aus unterschiedlichen Branchen. So haben
+				Das auf Innerrhoder Gebiet liegende aber organisatorisch zu Gais AR gehörende Gewerbezentrum 
+				Strahlholz beherbergt über zehn Unternehmen aus unterschiedlichen Branchen. So haben
 				verschiedene Unternehmen und Mieter im 'Strahlholz' ein ideales Umfeld für ihre Tätigkeiten
-				gefunden. Sie bieten rund 50 Mitarbeitenden einen Arbeitsplatz.
+				gefunden.
 			</p>
 
 			<h2>Die Aktionäre</h2>

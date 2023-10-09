@@ -39,8 +39,8 @@
 		<div class="prose prose-base md:prose-lg max-w-none">
 			<h2>Lage</h2>
 			<p>
-				Das Gewerbezentrum Stahlholz ist von St.Gallen in nur 15 Autominuten zu erreichen. Es stehen
-				ausreichend Parkplätze für Mieter und Besucher. In unmittelbarer Nähe befindet sich eine
+				Das Gewerbezentrum Strahlholz ist von St.Gallen in nur 15 Autominuten zu erreichen. Es stehen
+				ausreichend Parkplätze für Mieter und Besucher zur Verfügung. In unmittelbarer Nähe befindet sich eine
 				Haltestelle der Appenzeller Bahnen.
 			</p>
 		</div>
