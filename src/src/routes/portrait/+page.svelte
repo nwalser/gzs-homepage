@@ -29,7 +29,7 @@
 			</p>
 			<p>
 				Das auf Innerrhoder Gebiet liegende aber organisatorisch zu Gais AR gehörende Gewerbezentrum 
-				Strahlholz beherbergt über zehn Unternehmen aus unterschiedlichen Branchen. So haben
+				Strahlholz beherbergt Unternehmen aus unterschiedlichen Branchen. So haben
 				verschiedene Unternehmen und Mieter im 'Strahlholz' ein ideales Umfeld für ihre Tätigkeiten
 				gefunden.
 			</p>
