@@ -33,17 +33,6 @@
 				verschiedene Unternehmen und Mieter im 'Strahlholz' ein ideales Umfeld für ihre Tätigkeiten
 				gefunden.
 			</p>
-
-			<h2>Die Aktionäre</h2>
-			<p>
-				Hanswalter Schmid, Gais, Präsident <br />
-				Eisenhut Immobilien AG, Gais <br />
-				ENZ ELECTRONIC AG, Gais <br />
-				Fürsorgestiftung der Firma Heimann Koller A. G., Gais <br />
-				LUMITEC AG, Gais <br />
-				TISCA Tischhauser stiftung, Bühler <br />
-				Personalstiftung Willig Koller & Co.
-			</p>
 		</div>
 	</span>
 	<span slot="side">
