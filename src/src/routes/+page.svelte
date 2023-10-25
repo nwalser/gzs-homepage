@@ -46,7 +46,7 @@
 				</p>
 				<h2>Flexible Räume und Flächen</h2>
 				<p>
-					Insgesamt 2'000 m2 Fläche sind auf vier Etagen verteilt. 
+					Insgesamt 2'800 m2 Fläche sind auf vier Etagen verteilt. 
 					Die Räume sind 3.60 m hoch und sehr hell.
 				</p>
 			</div>
