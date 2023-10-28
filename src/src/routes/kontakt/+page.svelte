@@ -37,7 +37,7 @@
 
 			<p>
 				Schreiben Sie uns ein E-Mail oder rufen Sie uns einfach an. <br />
-				Wir geben Ihne gerne nähere Auskünfte.
+				Wir geben Ihnen gerne nähere Auskünfte.
 			</p>
 		</div>
 	</span>
