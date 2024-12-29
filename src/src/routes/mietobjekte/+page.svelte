@@ -79,7 +79,7 @@
 					<tr>
 						<td>1.2</td>
 						<td>414 m2</td>
-						<td class="text-end">vermietet</td>
+						<td class="text-end">frei</td>
 					</tr>
 				</tbody>
 			</table>
@@ -108,7 +108,7 @@
 					<tr>
 						<td>2.2</td>
 						<td>210 m2</td>
-						<td class="text-end">frei</td>
+						<td class="text-end">vermietet</td>
 					</tr>
 					<tr>
 						<td>2.3</td>
@@ -168,7 +168,7 @@
 		<div class="prose prose-base md:prose-lg max-w-none sticky top-12">
 			<h2>Aktuell freie Mietobjekte</h2>
 			<p>
-				2. Obergeschoss - 210m2 <br />
+				1. Obergeschoss - 414m2 <br />
 				2. Obergeschoss - 157m2 <br />
 				3. Obergeschoss - 157m2
 			</p>
